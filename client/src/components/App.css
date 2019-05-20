@@ -7,7 +7,7 @@ nav {
   text-align: center;
   padding-bottom: 0.2em;
   padding-top: 2em;
-  background-color: #efefef;
+  background-color: yellowgreen;
   box-shadow: -3px 3px 10px 0px rgba(168, 168, 168, 0.7);
 }
 
@@ -43,6 +43,7 @@ nav a:link {
 
 .active {
   font-weight: bold;
+  color: red
 }
 
 .form {
